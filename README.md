@@ -1,12 +1,12 @@
-Grove - LCD RGB Backlight  [![Build Status](https://travis-ci.com/Seeed-Studio/Grove_LCD_RGB_Backlight.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Grove_LCD_RGB_Backlight)
----------------------------------------------------------
+LCD-Bildschirm
+----
+*(Seeed Studio Grove – LCD RGB Backlight)*
 
-![Grove - LCD RGB Backlight](https://raw.githubusercontent.com/SeeedDocument/Grove_LCD_RGB_Backlight/master/images/intro.jpg)
+<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/62_lcd-bildschirm-1024x1024.jpg width=400px>
 
+Der LCD Bildschirm dient hautpsächlich zum Anzeigen von Informationen. Er verfügt über zwei Zeilen, auf denen jeweils 16 Zeichen (Buchstaben, Zahlen und Sonderzeichen) dargestellt werden können. Zusätzlich lässt sich die Farbe der Hintergrundbeleuchtung steuern, um einen besonderen Effekt zu erzeugen. Der Bildschirm kann direkt oder mithilfe des Grove Shields an einen Arduino oder Raspberry Pi über die serielle Schnittstelle I2C angeschlossen werden.
 
-[Grove - LCD RGB Backlight](https://www.seeedstudio.com/Grove-LCD-RGB-Backlight-p-1643.html)
-
-Done with the tedious mono color backlight? This Grove - LCD RBG Backlight enables you to set the color to whatever you like via the simple and concise Grove interface. It takes I2C as the communication method with your microcontroller. The number of pins required for data exchange and backlight control shrinks from ~10 to 2, relieving IOs for other challenging tasks. In addition, Grove - LCD RGB Backlight supports user-defined characters. Want to get a love heart or another custom character? Just take advantage of this feature and design it!
+Im Folgenden sind sind die grundlegenden Befehle (bisher nur auf englischer Sprache) aufgezählt:
 
 
 ## Usage:
@@ -62,22 +62,15 @@ For more information, please refer to [wiki page](http://wiki.seeedstudio.com/Gr
     
 ----
 
-This software is written by loovee([luweicong@seeedstudio.com](luweicong@seeedstudio.com "luweicong@seeedstudio.com")) for seeed studio<br>
-and is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check License.txt for more information.<br>
+In diesem Repository findet ihr **Bibliotheken und Beispiel-Codes**, mit denen der hier vorliegende Sensor getestet werden kann. Wir richten uns hiermit an **jeden Mentor und jede Mentorin aus dem Rahmen von Make Your School** und ermutigen euch, die hier zusammengestellten Codes **nach Bedarf** und individuell gemachten Erfahrungen **anzupassen**. Beispiele können einfach im Ordner /examples hinzugefügt oder angepasst werden. Wir versuchen das Repository regelmäßig mit Hilfe von euren Änderungsvorschlägen zu aktualisieren.
 
-Contributing to this software is warmly welcomed. You can do this basically by<br>
-[forking](https://help.github.com/articles/fork-a-repo), committing modifications and then [pulling requests](https://help.github.com/articles/using-pull-requests) (follow the links above<br>
-for operating guide). Adding change log and your contact into file header is encouraged.<br>
-Thanks for your contribution.
+Das Repository basiert grundlegend auf den veröffentlichten Informationen und Codes von Seeed Studio. 
+Die deutsche Übersetzung stammt von [Make Your School](https://www.makeyourschool.de/). Fehlinterpretationen und Änderungen vorbehalten. Die Informationen dürfen frei genutzt, angepasst und verbreitet werden, solange die Lizenzrechte (siehe License.txt) beachtet werden.
 
-Seeed Studio is an open hardware facilitation company based in Shenzhen, China. <br>
-Benefiting from local manufacture power and convenient global logistic system, <br>
-we integrate resources to serve new era of innovation. Seeed also works with <br>
-global distributors and partners to push open hardware movement.<br>
+**Weitere Informationen:**
 
+[Repository von Seed Studio](https://github.com/Seeed-Studio/)
 
+[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove/)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove_LCD_RGB_Backlight)](https://github.com/igrigorik/ga-beacon)
-
-
-
+[Materialkoffer von Make Your School](https://www.makeyourschool.de/material/)
